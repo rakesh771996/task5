@@ -1,3 +1,5 @@
+https://www.linkedin.com/pulse/task5-mlsecops-integration-ml-security-rakesh-manwani
+
 Create an automated system which will be useful for a server in terms of the following features:-
 
 1. This system will keep a log of the information about the clients hit or request to the server, for example, we can get log file of a webserver at location /var/log/httpd/
